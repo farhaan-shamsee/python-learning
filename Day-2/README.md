@@ -6,6 +6,18 @@ down to the nearest whole number. This is also known as integer division or divi
 returns an integer, since the result will always be an **integer** even if the division would
 normally result in a fraction.
 
+## Round Function
+The `round` function in Python is used to round a floating-point number to a specified number of 
+decimal places.
+
+```python
+round(number, ndigits)
+```
+
+where `number` is the floating-point number that you want to round and `ndigits` is an optional argument 
+that specifies the number of decimal places to which you want to round the number. 
+If `ndigits` is not specified, round will round the number to the nearest whole number.
+
 ## F-String
 Used to convert the datatypes to string. It provides a convenient way to embed 
 expressions inside string literals, using {} brackets to evaluate expressions. 
