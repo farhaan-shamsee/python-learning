@@ -1,3 +1,3 @@
-# python-learning
+# 100 days of Coding Challenge to Learn Python
 
-example programs
+
