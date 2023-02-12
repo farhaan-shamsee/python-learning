@@ -43,3 +43,19 @@ Example Input:
 Output: You have 12410 days, 1768 weeks, and 408 months left.
 
 Solution is [here](./3.life_in_weeks.py)
+
+## Tip Calculator
+
+### Problem Statement:
+Ask for total bill and percentage of tip to be given, later split the bill among total persons and 
+show the amount to be paid by each person
+
+### Sample Run:
+
+```
+    Welcome to  the tip calculator
+    What was the total bill?: $124.56
+    What percentage of tip would you like to give? 10, 12, or 15? 12
+    How many people to split the bill? 7
+    Each person should pay: $19.93
+```
