@@ -11,3 +11,23 @@ Used to convert the datatypes to string. It provides a convenient way to embed
 expressions inside string literals, using {} brackets to evaluate expressions. 
 The letter "f" before the string indicates that the string is an f-string.
 
+## Life in weeks problem:
+
+### Problem statement:
+Create a program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 
+90 years old.
+
+It will take your current age as the input and output a message with our time left in this format:
+
+You have x days, y weeks, and z months left.
+
+Where x, y and z are replaced with the actual calculated numbers.
+
+Warning your output should match the Example Output format exactly, even the positions of the commas and full stops.
+
+Example Input:
+56
+
+Output: You have 12410 days, 1768 weeks, and 408 months left.
+
+Solution is [here](./3.life_in_weeks.py)
