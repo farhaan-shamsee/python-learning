@@ -7,7 +7,7 @@ Take both people's names and check for the number of times the letters in the wo
 
 Then check for the number of times the letters in the word LOVE occurs.
 
-Then combine these numbers to make a 2 digit number.
+Then combine these numbers to make a 2-digit number.
 
 For Love Scores less than 10 or greater than 90, the message should be:
 "Your score is **x**, you go together like coke and mentos."
